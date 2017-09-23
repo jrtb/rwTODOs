@@ -2,6 +2,6 @@
 
 This repo is a collection of TODO lists and ideas for raywenderlich.com
 
-please feal free to suggest your own ideas
-
-contact details
+=======
+Please feel free to suggest your own ideas via pull request.
+Like a disconnected modem.
